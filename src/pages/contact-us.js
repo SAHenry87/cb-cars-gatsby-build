@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 const ContactPage = () => (
   <Layout>
     <Seo title="Contact us" />
-    <section id="contact-page">
+    <section id="contact-page"> 
 
                 <div className="lines">
                     <div className="line"></div>
